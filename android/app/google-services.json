@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726999210938",
+    "project_id": "rohmanapps",
+    "storage_bucket": "rohmanapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726999210938:android:952c8a2602957618df1b83",
+        "android_client_info": {
+          "package_name": "com.rohman.rohman_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726999210938-9ptg4fpjqj9lacov5f2rentsmstskem2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEdk6uSSrhH2rtkdlkWeAcFPWewuS6QEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726999210938-9ptg4fpjqj9lacov5f2rentsmstskem2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
